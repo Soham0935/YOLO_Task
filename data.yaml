@@ -1,0 +1,6 @@
+path: /Users/sohamshrivastava/Desktop/untitled_folder   
+train: /Users/sohamshrivastava/Desktop/untitled_folder/train
+val: /Users/sohamshrivastava/Desktop/untitled_folder/val
+test: /Users/sohamshrivastava/Desktop/untitled_folder/train_val
+nc: 1
+names: ["solar_panel_data"]
